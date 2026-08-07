@@ -116,11 +116,11 @@ modo_fun_fact: ["Debug é 90% café, 10% café extra"]
 
 ### ⟢ Projeto Um
 
-**Descrição curta e objetiva do que o projeto faz e qual problema resolve.**
+**Lading Page de Desenvolvimentos/Projetos**
 
 `Python` `Flask` `MySQL`
 
-[![Repo](https://img.shields.io/badge/-VER%20REPOSITÓRIO-0a0e27?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0e27)](https://github.com/LJBLUES11/projeto-um)
+[![Repo](https://img.shields.io/badge/-VER%20REPOSITÓRIO-0a0e27?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0e27)](https://github.com/LJBLUES11/BluesHub)
 
 </div>
 
@@ -131,11 +131,11 @@ modo_fun_fact: ["Debug é 90% café, 10% café extra"]
 
 ### ⟢ Projeto Dois
 
-**Descrição curta e objetiva do que o projeto faz e qual problema resolve.**
+**Projeto de uma API para um joguinho de adivinhar números**
 
-`Python` `CyberSecurity` `Automação`
+`Python` `Flask` `MySQL` `HTML` `CSS`
 
-[![Repo](https://img.shields.io/badge/-VER%20REPOSITÓRIO-0a0e27?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0e27)](https://github.com/LJBLUES11/projeto-dois)
+[![Repo](https://img.shields.io/badge/-VER%20REPOSITÓRIO-0a0e27?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0e27)](https://github.com/LJBLUES11/Game_Choice-Number)
 
 </div>
 
@@ -145,29 +145,6 @@ modo_fun_fact: ["Debug é 90% café, 10% café extra"]
 <td width="50%">
 
 <div align="center">
-
-### ⟢ Projeto Três
-
-**Descrição curta e objetiva do que o projeto faz e qual problema resolve.**
-
-`Flask` `API REST` `MySQL`
-
-[![Repo](https://img.shields.io/badge/-VER%20REPOSITÓRIO-0a0e27?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0e27)](https://github.com/LJBLUES11/projeto-tres)
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-### ⟢ Projeto Quatro
-
-**Descrição curta e objetiva do que o projeto faz e qual problema resolve.**
-
-`Python` `Scripts` `Pentest`
-
-[![Repo](https://img.shields.io/badge/-VER%20REPOSITÓRIO-0a0e27?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0e27)](https://github.com/LJBLUES11/projeto-quatro)
 
 </div>
 
@@ -237,11 +214,6 @@ ljblues11@dev-machine:~$ _
 
 <br/>
 
-<div align="center">
-
-![Views](https://github.com/LJBLUES11&color=00f0ff&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0d47a1,100:0a0e27&height=150&section=footer&animation=fadeIn"/>
 

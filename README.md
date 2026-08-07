@@ -96,7 +96,7 @@ modo_fun_fact: ["Debug é 90% café, 10% café extra"]
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" />
 
 </div>
 

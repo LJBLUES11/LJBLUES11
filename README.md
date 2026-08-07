@@ -232,9 +232,6 @@ ljblues11@dev-machine:~$ _
 <a href="https://www.instagram.com/ljblues_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-0a0e27?style=for-the-badge&logo=instagram&logoColor=00f0ff&labelColor=0a0e27" />
 </a>
-<a href="https://SEU_PORTFOLIO.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-0a0e27?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0e27" />
-</a>
 
 </div>
 
@@ -242,7 +239,7 @@ ljblues11@dev-machine:~$ _
 
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=LJBLUES11&color=00f0ff&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
+![Views](https://github.com/LJBLUES11&color=00f0ff&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
 
 </div>
 

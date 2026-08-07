@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d47a1,100:00d9ff&height=280&section=header&text=SEU_USUARIO&fontSize=70&fontColor=00f0ff&fontAlignY=38&desc=SYSTEM%20ONLINE%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d47a1,100:00d9ff&height=280&section=header&text=LJBLUES11&fontSize=70&fontColor=00f0ff&fontAlignY=38&desc=SYSTEM%20ONLINE%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -42,7 +42,7 @@
 > arquivo: sobre_mim.yaml
 > carregando dados do usuário...
 
-nome:         Seu Nome Aqui
+nome:         Lenildo Junior
 função:       Desenvolvedor(a) Full-Stack
 localização:  Brasil 🇧🇷
 foco_atual:   Construindo interfaces do futuro

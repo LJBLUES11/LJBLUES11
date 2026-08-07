@@ -183,11 +183,12 @@ modo_fun_fact: ["Debug é 90% café, 10% café extra"]
 ljblues11@dev-machine:~$ cat objetivos_2026.txt
 
 [✓] Consolidar base sólida em Python e Flask
-[✓] Contribuir para projetos open source relevantes
+[✓] Praticar diariamente em VirtualLabs
+[✓] Obter certificações em segurança da informação
 [ ] Aprofundar estudos em CyberSecurity (pentest & hardening)
 [ ] Estudar segurança de APIs e bancos de dados
 [ ] Construir um projeto back-end seguro de ponta a ponta
-[ ] Obter certificações em segurança da informação
+[ ] Achar minha primeira falha como BugBounter
 
 ljblues11@dev-machine:~$ echo $STATUS
 > "compilando conhecimento... 87% concluído"
@@ -218,83 +219,17 @@ ljblues11@dev-machine:~$ _
 
 <br/>
 
-## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="30"> CONQUISTAS.trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LJBLUES11&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> CONTRIBUTION_GRID.snake
-
-<div align="center">
-
-<!--
-  A Snake Animation abaixo é gerada automaticamente via GitHub Actions.
-  Para ativá-la no SEU perfil, siga estes passos:
-
-  1. Crie o arquivo .github/workflows/snake.yml no seu repositório
-     LJBLUES11/LJBLUES11 com o conteúdo:
-
-     name: Generate Snake
-     on:
-       schedule:
-         - cron: "0 */6 * * *"
-       workflow_dispatch: {}
-       push:
-         branches: [ main ]
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         permissions:
-           contents: write
-         steps:
-           - uses: Platane/snk@v3
-             id: snake-gif
-             with:
-               github_user_name: LJBLUES11
-               outputs: |
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-                 dist/github-contribution-grid-snake.svg
-           - uses: crazy-max/ghaction-github-pages@v4
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
-
-  2. Depois de rodar a Action, a imagem abaixo passará a exibir a cobra
-     "comendo" seus quadrados de contribuição automaticamente.
--->
-
-<img src="https://raw.githubusercontent.com/LJBLUES11/LJBLUES11/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-<br/>
-
 ## <img src="https://media.giphy.com/media/3ohhwMTZmoYysFVccM/giphy.gif" width="30"> CONECTAR.net
 
 <div align="center">
 
-<a href="https://linkedin.com/in/LJBLUES11" target="_blank">
+<a href="https://www.linkedin.com/in/lenildo-junior-a4363a428/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0a0e27" />
 </a>
-<a href="mailto:seuemail@dominio.com" target="_blank">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/rosalenildo833%40gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-0a0e27?style=for-the-badge&logo=gmail&logoColor=00f0ff&labelColor=0a0e27" />
 </a>
-<a href="https://instagram.com/LJBLUES11" target="_blank">
+<a href="https://www.instagram.com/ljblues_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-0a0e27?style=for-the-badge&logo=instagram&logoColor=00f0ff&labelColor=0a0e27" />
 </a>
 <a href="https://SEU_PORTFOLIO.com" target="_blank">

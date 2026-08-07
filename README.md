@@ -73,23 +73,23 @@ modo_fun_fact: ["Debug é 90% café, 10% café extra"]
 
 **◈ Linguagens ◈**
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,go,rust,cpp,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,py&theme=dark" />
 
 **◈ Frontend ◈**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,html,css,svelte&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 
 **◈ Backend & APIs ◈**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql,nestjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,flask&theme=dark" />
 
 **◈ Banco de Dados ◈**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 
 **◈ Cloud & Infra ◈**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,firebase,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,nginx&theme=dark" />
 
 </div>
 
@@ -99,7 +99,7 @@ modo_fun_fact: ["Debug é 90% café, 10% café extra"]
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,figma,postman,linux,bash,npm,pnpm,webpack,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" />
 
 </div>
 
@@ -185,12 +185,12 @@ modo_fun_fact: ["Debug é 90% café, 10% café extra"]
 ```bash
 guest@dev-machine:~$ cat objetivos_2026.txt
 
-[✓] Dominar arquitetura de microsserviços
-[✓] Contribuir para projetos open source relevantes
-[ ] Aprofundar estudos em sistemas distribuídos
+[✓] Compreender e aplicar a lógica de programação para problemas reais
+[✓] Contribuir para projetos trabalhando em equipe
+[✓] Praticar diariamente em VirtualLabs
 [ ] Publicar artigos técnicos sobre performance web
-[ ] Construir e escalar um SaaS próprio
-[ ] Mentorar novos desenvolvedores(as)
+[✓] Construir e escalar um SaaS próprio
+[ ] Achar minha primeira falha como BugBounter
 
 guest@dev-machine:~$ echo $STATUS
 > "compilando conhecimento... 87% concluído"
@@ -208,14 +208,14 @@ guest@dev-machine:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&ring_color=0d47a1&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&background=0a0e27&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=LJBLUES11&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&ring_color=0d47a1&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LJBLUES11&hide_border=true&background=0a0e27&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0a0e27&title_color=00f0ff&text_color=c9d1d9&langs_count=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJBLUES11&layout=compact&hide_border=true&bg_color=0a0e27&title_color=00f0ff&text_color=c9d1d9&langs_count=10" width="49%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SEU_USUARIO&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LJBLUES11&theme=github_dark" width="49%"/>
 
 </div>
 
@@ -225,7 +225,7 @@ guest@dev-machine:~$ _
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=LJBLUES11&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7" />
 
 </div>
 

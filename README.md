@@ -179,22 +179,7 @@ ljblues11@dev-machine:~$ _
 
 <br/>
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> GITHUB_STATS.exe
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LJBLUES11&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&ring_color=0d47a1&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LJBLUES11&hide_border=true&background=0a0e27&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJBLUES11&layout=compact&hide_border=true&bg_color=0a0e27&title_color=00f0ff&text_color=c9d1d9&langs_count=10" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LJBLUES11&theme=github_dark" width="49%"/>
-
-</div>
-
-<br/>
 
 ## <img src="https://media.giphy.com/media/3ohhwMTZmoYysFVccM/giphy.gif" width="30"> CONECTAR.net
 

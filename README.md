@@ -81,7 +81,7 @@ modo_fun_fact: ["Debug é 90% café, 10% café extra"]
 
 **◈ Back-End ◈**
 
-<img src="https://skillicons.dev/icons?i=flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask, django&theme=dark" />
 
 **◈ Banco de Dados ◈**
 

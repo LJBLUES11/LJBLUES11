@@ -49,7 +49,6 @@ localização:  Brasil 🇧🇷
 foco_atual:   Construindo sistemas back-end seguros
 aprendendo:   Segurança ofensiva e defensiva
 colaboração:  Projetos Open Source & Segurança
-contato:      "peça um pull request... ou um café "
 modo_fun_fact: ["Debug é 90% café, 10% café extra"]
 ```
 

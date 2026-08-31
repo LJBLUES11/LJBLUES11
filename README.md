@@ -134,7 +134,7 @@ modo_fun_fact: ["Debug é 90% café, 10% café extra"]
 
 `Python` `Django` `SqLite` `HTML` `CSS`
 
-[![Repo](https://img.shields.io/badge/-VER%20REPOSITÓRIO-0a0e27?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0e27)]((https://github.com/LJBLUES11/Escolha.py))
+[![Repo](https://img.shields.io/badge/-VER%20REPOSITÓRIO-0a0e27?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0e27)](https://github.com/LJBLUES11/Escolha.py)
 
 </div>
 
